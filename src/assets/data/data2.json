@@ -1,0 +1,682 @@
+{"branches": [
+    {
+        "branches": [
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Bulgaria",
+                "numberOfFires": 72.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Czechia",
+                "numberOfFires": 1.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Hungary",
+                "numberOfFires": 44.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Poland",
+                "numberOfFires": 7.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Romania",
+                "numberOfFires": 717.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Slovakia",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Denmark",
+                "numberOfFires": 6.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Estonia",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Finland",
+                "numberOfFires": 3.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Ireland",
+                "numberOfFires": 21.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Latvia",
+                "numberOfFires": 2.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Lithuania",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Sweden",
+                "numberOfFires": 5.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Croatia",
+                "numberOfFires": 150.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Cyprus",
+                "numberOfFires": 10.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Greece",
+                "numberOfFires": 51.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Italy",
+                "numberOfFires": 462.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Malta",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Portugal",
+                "numberOfFires": 256.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Slovenia",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Spain",
+                "numberOfFires": 423.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Austria",
+                "numberOfFires": 5.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Belgium",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "France",
+                "numberOfFires": 284.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Germany",
+                "numberOfFires": 32.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Luxembourg",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Netherlands",
+                "numberOfFires": 6.0
+            }
+        ],
+        "depth": 2,
+        "label": "Eastern Europe",
+        "numberOfFires": 845.0
+    },
+    {
+        "branches": [
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Bulgaria",
+                "numberOfFires": 72.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Czechia",
+                "numberOfFires": 1.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Hungary",
+                "numberOfFires": 44.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Poland",
+                "numberOfFires": 7.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Romania",
+                "numberOfFires": 717.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Slovakia",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Denmark",
+                "numberOfFires": 6.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Estonia",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Finland",
+                "numberOfFires": 3.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Ireland",
+                "numberOfFires": 21.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Latvia",
+                "numberOfFires": 2.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Lithuania",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Sweden",
+                "numberOfFires": 5.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Croatia",
+                "numberOfFires": 150.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Cyprus",
+                "numberOfFires": 10.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Greece",
+                "numberOfFires": 51.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Italy",
+                "numberOfFires": 462.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Malta",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Portugal",
+                "numberOfFires": 256.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Slovenia",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Spain",
+                "numberOfFires": 423.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Austria",
+                "numberOfFires": 5.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Belgium",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "France",
+                "numberOfFires": 284.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Germany",
+                "numberOfFires": 32.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Luxembourg",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Netherlands",
+                "numberOfFires": 6.0
+            }
+        ],
+        "depth": 2,
+        "label": "Northern Europe",
+        "numberOfFires": 37.0
+    },
+    {
+        "branches": [
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Bulgaria",
+                "numberOfFires": 72.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Czechia",
+                "numberOfFires": 1.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Hungary",
+                "numberOfFires": 44.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Poland",
+                "numberOfFires": 7.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Romania",
+                "numberOfFires": 717.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Slovakia",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Denmark",
+                "numberOfFires": 6.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Estonia",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Finland",
+                "numberOfFires": 3.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Ireland",
+                "numberOfFires": 21.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Latvia",
+                "numberOfFires": 2.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Lithuania",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Sweden",
+                "numberOfFires": 5.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Croatia",
+                "numberOfFires": 150.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Cyprus",
+                "numberOfFires": 10.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Greece",
+                "numberOfFires": 51.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Italy",
+                "numberOfFires": 462.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Malta",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Portugal",
+                "numberOfFires": 256.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Slovenia",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Spain",
+                "numberOfFires": 423.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Austria",
+                "numberOfFires": 5.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Belgium",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "France",
+                "numberOfFires": 284.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Germany",
+                "numberOfFires": 32.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Luxembourg",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Netherlands",
+                "numberOfFires": 6.0
+            }
+        ],
+        "depth": 2,
+        "label": "Southern Europe",
+        "numberOfFires": 1356.0
+    },
+    {
+        "branches": [
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Bulgaria",
+                "numberOfFires": 72.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Czechia",
+                "numberOfFires": 1.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Hungary",
+                "numberOfFires": 44.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Poland",
+                "numberOfFires": 7.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Romania",
+                "numberOfFires": 717.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Slovakia",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Denmark",
+                "numberOfFires": 6.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Estonia",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Finland",
+                "numberOfFires": 3.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Ireland",
+                "numberOfFires": 21.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Latvia",
+                "numberOfFires": 2.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Lithuania",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Sweden",
+                "numberOfFires": 5.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Croatia",
+                "numberOfFires": 150.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Cyprus",
+                "numberOfFires": 10.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Greece",
+                "numberOfFires": 51.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Italy",
+                "numberOfFires": 462.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Malta",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Portugal",
+                "numberOfFires": 256.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Slovenia",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Spain",
+                "numberOfFires": 423.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Austria",
+                "numberOfFires": 5.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Belgium",
+                "numberOfFires": 4.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "France",
+                "numberOfFires": 284.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Germany",
+                "numberOfFires": 32.0
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Luxembourg",
+                "numberOfFires": null
+            },
+            {
+                "branches": [],
+                "depth": 3,
+                "label": "Netherlands",
+                "numberOfFires": 6.0
+            }
+        ],
+        "depth": 2,
+        "label": "Western Europe",
+        "numberOfFires": 331.0
+    }
+],
+"depth": 1,
+"label": "EU Forest fires (EFFIS)",
+"numberOfFires": 2569.0
+}
