@@ -48,7 +48,16 @@
 
 <svg>
   <defs>
-    <pattern id="bark" patternUnits="userSpaceOnUse" width="100" height="100">
+    <pattern id="trunk" patternUnits="userSpaceOnUse" width="100" height="100">
+      <image href={bark} x="0" y="0" width="100" height="100" preserveAspectRatio="none"/>
+    </pattern>
+    <pattern id="barkUp" patternUnits="userSpaceOnUse" width="100" height="100">
+      <image href={bark} x="0" y="0" width="100" height="100" preserveAspectRatio="none"/>
+    </pattern>
+    <pattern id="barkLeft" patternUnits="userSpaceOnUse" width="100" height="100" patternTransform="rotate(45)">
+      <image href={bark} x="0" y="0" width="100" height="100" preserveAspectRatio="none"/>
+    </pattern>
+    <pattern id="barkRight" patternUnits="userSpaceOnUse" width="100" height="100" patternTransform="rotate(-45)">
       <image href={bark} x="0" y="0" width="100" height="100" preserveAspectRatio="none"/>
     </pattern>
   </defs>

@@ -38,8 +38,8 @@
 
 
   const branch = branches[branchNumber]
-  const branchWidth = (lastBranchWidth / branches.length)
-  // (branch.numberOfFires + 1) / 50
+  // const branchWidth = (lastBranchWidth / branches.length)
+  const branchWidth = (branch.numberOfFires + 1) / 50
   const branchLength = getLength(branches[0].depth, branch.numberOfFires)
   const label = branch.label
   // const maximumDegree = scale(branches[0].depth, [1,10], [20, spread[branches[0].depth]])
@@ -116,14 +116,22 @@
 
   let branchStartX = 0;
   for(let i=0;i<branchNumber;i++){
-    branchStartX = (i+1) * branchWidth
+    // branchStartX = (i+1) * branchWidth 
+    branchStartX += (branches[i].numberOfFires + 1) / 50
   };
 
+  const fillURL = (branches[0].depth === 1)
+    ? 'trunk'
+    : (angle > 10) 
+      ? 'barkRight'
+      : (angle < -10)
+        ? 'barkLeft'
+        : 'barkUp'
 
 </script>
 <!-- #7b4402 -->
 <g transform='translate({startX+branchStartX},{startY})' stroke='#272105' fill='#272105' pointer-events='null'>
-  <path fill='url(#bark)' d='M0 0 {transformLine(0,0,0,branchLength)} z'/>
+  <path fill='url(#{fillURL})' d='M0 0 {transformLine(0,0,0,branchLength)} z'/>
   {#each branch.Branches as newBranch, i}
     <Branch lastBranchWidth={branchWidth} branches={branch.Branches} branchNumber={i} startX={-branchEndX} startY={-branchEndY} {w} {h} previousAngle={angle} />
   {/each}

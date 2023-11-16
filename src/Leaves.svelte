@@ -20,11 +20,13 @@
       'y':toAngleY((i+1)*step)
     })
   }
+  const randomFire = Math.round(Math.random()*10)
+
 
 </script>
 
 {#each leaves as leaf}
-  <Leaf x={leaf.x} y={leaf.y} {angle} {branch} />
+  <Leaf x={leaf.x} y={leaf.y} {angle} {branch} {randomFire}/>
 {/each}
 
 
